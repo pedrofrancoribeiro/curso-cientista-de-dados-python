@@ -5,7 +5,12 @@
    **m07#48**: Estruturas de Decisão <br />
    **m07#49**: Estruturas de Repetição <br />
    **m07#50**: Listas <br />
-   **m07#50**: Dicionários, Sets e Tuplas <br />
+   **m07#51**: Dicionários, Sets e Tuplas <br />
+   **m07#52**: Numpy <br />
+   **m07#53**: Pandas <br />
+   **m07#54**: Módulos e Pacotes <br />
+   **m07#55**: Funções <br />
+   **m07#56**: Função Padrão <br />
 
 2. **m08:** Seção 7 - Prática em Python <br />
        **m07#47**: Variáveis e objetos <br />
